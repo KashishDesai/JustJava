@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Order Application</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT = 20] -->
+    <string name="toppings_textView">Toppings</string>
+
+    <string name="hint_name_editText">Name</string>
+    <string name="chocolate_checkBox">Chocolate</string>
+    <string name="whipped_cream_checBox">Whipped Cream</string>
+    <string name="quantity_textView1">Quantity</string>
+    <string name="decrement_button">-</string>
+    <string name="quantity_textView2">1</string>
+    <string name="increment_button">+</string>
+    <string name="order_button">Order</string>
+
+    <!-- Order Summary -->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Kashish" >%s</xliff:g> </string>
+    <string name="order_summary_chocolate">Add Chocolate: <xliff:g id="chocolate" example="yes" >%s</xliff:g> </string>
+    <string name="order_summary_whipped_cream">Add Whipped Cream: <xliff:g id="whipped_cream" example="yes" >%s</xliff:g> </string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="7" >%s</xliff:g> </string>
+    <string name="order_summary_total">Total: $<xliff:g id="total" example="total: $29" >%s</xliff:g> </string>
+    <string name="thank_you">Thank You!</string>
+
+</resources>
